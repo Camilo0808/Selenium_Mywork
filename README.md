@@ -1,0 +1,1 @@
+Para executar o projeto, crie a sua `.env` file, com as variáveis de ambientes conforme esperado no `settings.py`.
